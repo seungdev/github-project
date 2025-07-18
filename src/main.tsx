@@ -5,6 +5,6 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App /> 수정수정
+    <App /> 수정수정 login
   </StrictMode>,
 )
